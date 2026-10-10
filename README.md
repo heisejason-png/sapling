@@ -77,4 +77,5 @@ The main project is licensed under [GPL-2.0](LICENSE).
 The [website](website) and [ISL](addons) are licensed under [MIT](addons/LICENSE).
 
 Library subprojects, such as [minibytes](eden/scm/lib/minibytes), might have different licenses. Please refer to the `LICENSE` file and source code headers in each library for detailed information.
-Created by Jason Heise https://next.frame.io  https://www.behance.net
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
